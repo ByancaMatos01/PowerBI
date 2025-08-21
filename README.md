@@ -15,7 +15,7 @@ Meus relatórios exploram as vendas de jogos e respondem perguntas estratégicas
    ![Top 10 Jogos](imagens/top10_jogos.png)  
 
 3. **Qual jogo mais vendeu na América do Norte** 🇺🇸  
-   ![Mais Vendido NA](imagens/mais_vendido_na.png)  
+   ![Mais Vendido NA](imagens/mais_vendido_na_europa.png)  
 
 4. **Publisher que mais vendeu globalmente** 🏢  
    ![Publisher Global](imagens/publisher_global.png)  
