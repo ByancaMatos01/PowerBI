@@ -50,11 +50,11 @@ video-games-powerbi/
 ├─ datasets/
 │ └─ video_games_sales.csv
 ├─ relatorios/
-│ ├─ vendas_por_regiao.pbix
-│ ├─ top10_jogos.pbix
-│ ├─ mais_vendido_na.pbix
-│ ├─ publisher_global.pbix
-│ └─ tipo_jogos_europa.pbix
+│ ├─ vendas_por_regiao
+│ ├─ top10_jogos
+│ ├─ mais_vendido_na_europa
+│ ├─ publisher_global
+│ └─ tipo_jogos_europa
 ├─ imagens/
 │ ├─ vendas_por_regiao.gif
 │ ├─ top10_jogos.gif
