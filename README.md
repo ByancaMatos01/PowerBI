@@ -36,9 +36,9 @@ Meus relatórios exploram as vendas de jogos e respondem perguntas estratégicas
 
 ## 🚀 Próximos passos
 
-- Explorar análises mais avançadas com **filtros interativos**  
-- Criar dashboards combinando múltiplos datasets  
-- Compartilhar melhores práticas e aprendizados sobre Power BI  
+- Explorar análises mais sobre Query **Consultas**  
+- Enfase em Transformação de Dados 
+-  Limpar os dados **Remover colunas e linhas, formatação**
 
 ---
 
