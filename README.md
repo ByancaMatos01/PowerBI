@@ -43,7 +43,8 @@ Meus relatórios exploram as vendas de jogos e respondem perguntas estratégicas
 ---
 
 ## 📂 Estrutura do repositório
-<pre> # ``video-games-powerbi/
+<pre> 
+video-games-powerbi/
 │
 ├─ README.md
 ├─ datasets/
@@ -60,4 +61,5 @@ Meus relatórios exploram as vendas de jogos e respondem perguntas estratégicas
 │ ├─ mais_vendido_na.gif
 │ ├─ publisher_global.gif
 │ └─ tipo_jogos_europa.gif
-└─ .gitignore ``` </pre>
+└─ .gitignore
+</pre>
