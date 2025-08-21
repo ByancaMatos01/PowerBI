@@ -63,3 +63,6 @@ video-games-powerbi/
 │ └─ tipo_jogos_europa.gif
 └─ .gitignore
 </pre>
+---
+
+Feito por **Byanca Matos** 💻
