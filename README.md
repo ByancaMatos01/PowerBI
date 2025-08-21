@@ -43,22 +43,4 @@ Meus relatórios exploram as vendas de jogos e respondem perguntas estratégicas
 ---
 
 ## 📂 Estrutura do repositório
-video-games-powerbi/
-│
-├─ README.md
-├─ datasets/
-│   └─ video_games_sales.csv
-├─ relatorios/
-│   ├─ vendas_por_regiao.pbix
-│   ├─ top10_jogos.pbix
-│   ├─ mais_vendido_na.pbix
-│   ├─ publisher_global.pbix
-│   └─ tipo_jogos_europa.pbix
-├─ imagens/
-│   ├─ vendas_por_regiao.gif
-│   ├─ top10_jogos.gif
-│   ├─ mais_vendido_na.gif
-│   ├─ publisher_global.gif
-│   └─ tipo_jogos_europa.gif
-└─ .gitignore
-
+<pre> # ``` video-games-powerbi/ │ ├─ README.md ├─ datasets/ │ └─ video_games_sales.csv ├─ relatorios/ │ ├─ vendas_por_regiao.pbix │ ├─ top10_jogos.pbix │ ├─ mais_vendido_na.pbix │ ├─ publisher_global.pbix │ └─ tipo_jogos_europa.pbix ├─ imagens/ │ ├─ vendas_por_regiao.gif │ ├─ top10_jogos.gif │ ├─ mais_vendido_na.gif │ ├─ publisher_global.gif │ └─ tipo_jogos_europa.gif └─ .gitignore ``` </pre>
